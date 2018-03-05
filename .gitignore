@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages/Newtonsoft.Json.11.0.1
+/.vs/TwoDaysCSharpIntensive/v15
+/TwoDaysCSharpIntensive/bin/Debug
+/TwoDaysCSharpIntensive/obj/Debug
